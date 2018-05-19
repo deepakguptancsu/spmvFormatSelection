@@ -1,6 +1,5 @@
-# Program Dynamic Optimization via Machine Learning
-
-Scalable Approach to Sparse Matrix Format Selection
+# Scalable Approach to Sparse Matrix Format Selection
+(Program Dynamic Optimization via Machine Learning)
 
 Sparse matrix vector multiplication (SpMV) is one of the most important kernel in many scientific computations and is often a major performance bottleneck. Performance of SpMV highly depends upon the format in which sparse matrix is represented. This project addresses this problem and focuses on selecting suitable SpMV format for a given sparse matrix by analyzing its features.
 
