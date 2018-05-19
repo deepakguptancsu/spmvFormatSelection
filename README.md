@@ -7,7 +7,8 @@ This selection is done by a pre-trained predictive model. Various features of a 
 
 Implementation: Project is implemented in Python. It has two main modules-
 
-(a)	Preprocessing – Extracts key features of sample sparse matrices for 7 important sparse matrix formats 
+(a)	Preprocessing – Extracts key features of sample sparse matrices for 7 important sparse matrix formats
+ 
 (b)	Training – XGBoost model is trained by using extracted features
 
 Results: For 355 sample sparse matrices taken from SuiteSparse, the overall accuracy of the trained model by using five-fold cross validation is 84.19%
